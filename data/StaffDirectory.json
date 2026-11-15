@@ -1,0 +1,50 @@
+[
+    {
+        "Department / Role": "Principal & CEO",
+        "Lead Contact": "Dr. Marcus Vance",
+        "Email": "principal@kaspercollege.ac.uk",
+        "Ext": 2001
+    },
+
+    {
+        "Department / Role": "Dean of Computing",
+        "Lead Contact": "Prof. Aris Thorne",
+        "Email": "a.thorne@kaspercollege.ac.uk",
+        "Ext": 2100
+    },
+
+    {
+        "Department / Role": "Dean of Art & Design",
+        "Lead Contact": "Prof. Claire Montgomery",
+        "Email": "c.montgomery@kaspercollege.ac.uk",
+        "Ext": 2150
+    },
+
+    {
+        "Department / Role": "Academic Registry",
+        "Lead Contact": "Registry Services",
+        "Email": "registry@kaspercollege.ac.uk",
+        "Ext": 2240
+    },
+
+    {
+        "Department / Role": "IT Helpdesk (Staff)",
+        "Lead Contact": "IT Support Team",
+        "Email": "ithelpdesk@kaspercollege.ac.uk",
+        "Ext": 2222
+    },
+
+    {
+        "Department / Role": "Human Resources",
+        "Lead Contact": "HR Advisory Hub",
+        "Email": "hr@kaspercollege.ac.uk",
+        "Ext": 2280
+    },
+
+    {
+        "Department / Role": "Estates & Facilities",
+        "Lead Contact": "Helpdesk Estates",
+        "Email": "estates@kaspercollege.ac.uk",
+        "Ext": 2300
+    }
+]
